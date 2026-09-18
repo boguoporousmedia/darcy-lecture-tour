@@ -1,0 +1,24 @@
+---
+title: "Institution Name"
+subtitle: "City, Country"
+date: "YYYY-MM-DD"
+description: "One-sentence public description of the visit."
+draft: true
+---
+
+## The visit
+
+Public visit summary.
+
+## A memorable question
+
+One question suitable for public attribution or presented anonymously.
+
+## What I learned
+
+Public reflection.
+
+## Selected moments
+
+Add no more than five approved and optimized photographs, each with alt text, caption, and credit.
+

@@ -1,0 +1,39 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - data/public-visits.json
+    - assets/visits.js
+
+website:
+  title: "Darcy Lecture Tour 2027"
+  description: "Notes from Bo Guo's 2027 Darcy Lecture tour: visits and conversations across the groundwater community."
+  site-url: "https://boguoporousmedia.github.io/darcy-lecture-tour/"
+  repo-url: "https://github.com/boguoporousmedia/darcy-lecture-tour"
+  search: false
+  navbar:
+    title: "Darcy Lecture Tour 2027"
+    background: light
+    pinned: true
+    right:
+      - text: "Home"
+        href: index.qmd
+      - text: "Visits"
+        href: visits/index.qmd
+  page-footer:
+    left: "© 2026-2027 Bo Guo"
+    right: "A record of lectures and conversations."
+  open-graph: true
+
+format:
+  html:
+    theme:
+      - default
+      - assets/styles.scss
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    anchor-sections: false
+
+execute:
+  freeze: auto

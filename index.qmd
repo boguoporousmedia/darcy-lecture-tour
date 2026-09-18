@@ -1,0 +1,89 @@
+---
+pagetitle: "Darcy Lecture Tour 2027"
+description: "Notes from a year of lectures and conversations across the groundwater community."
+page-layout: full
+---
+
+::: {.hero}
+<p class="eyebrow">2027 Darcy Lecturer</p>
+
+# Darcy Lecture Tour 2027
+
+<p class="hero-lead">Notes from a year of lectures and conversations across the groundwater community.</p>
+
+<p class="hero-byline">Bo Guo · University of Arizona</p>
+
+<div class="hero-links">
+  <a class="text-link" href="visits/index.html">Visit notes</a>
+</div>
+:::
+
+:::: {.intro-grid}
+::: {.section-label}
+<p class="eyebrow">On the road</p>
+:::
+
+::: {.intro-copy}
+Groundwater science is more important than ever as society confronts increasingly complex water-quality challenges. The Darcy Lectureship is an opportunity to share new ways of understanding subsurface flow and contaminant transport, and to learn through conversations with students, researchers, practitioners, and groundwater professionals.
+
+This site will document those conversations after each visit. It is a travel record, but more importantly, a record of the questions, connections, and ideas that emerge along the way.
+:::
+::::
+
+<hr class="quiet-rule">
+
+::: {.section-heading}
+<p class="eyebrow">The lectures</p>
+
+## From pore-scale physics to practical decisions
+:::
+
+:::: {.lecture-list}
+:::: {.lecture-item}
+::: {.item-number}
+01
+:::
+
+::: {.lecture-title}
+### PFAS Fate and Transport in Soils and Groundwater
+
+<p class="lecture-subtitle">From Pore-scale Physics to Decision Support</p>
+:::
+
+::: {.lecture-summary}
+PFAS transport brings fluid-fluid interfaces, thin water films, soil moisture, and geochemistry to the center of contaminant hydrology. This lecture connects those pore-scale processes to field-scale migration, mathematical models, and practical tools for screening and decision support.
+:::
+::::
+
+:::: {.lecture-item}
+::: {.item-number}
+02
+:::
+
+::: {.lecture-title}
+### Simplicity Out of Complexity
+
+<p class="lecture-subtitle">Hierarchical Modeling for Understanding and Decision Support in Subsurface Systems</p>
+:::
+
+::: {.lecture-summary}
+Detailed models and emerging AI tools can represent ever more complexity, but detail alone does not guarantee understanding. This lecture shows how simple and hierarchical models help identify dominant mechanisms, test hypotheses, quantify uncertainty, and connect science with real-world decisions.
+:::
+::::
+::::
+
+<hr class="quiet-rule">
+
+:::: {.status-panel}
+::: {.status-copy}
+<p class="eyebrow">The record begins in 2027</p>
+
+## Notes will appear as the tour unfolds
+
+Entries will be published after each visit rather than as a real-time itinerary. Each note will focus on the visit, a memorable question, and what I learned from the conversation.
+:::
+
+::: {.status-links}
+[Visit archive](visits/index.qmd){.text-link}
+:::
+::::

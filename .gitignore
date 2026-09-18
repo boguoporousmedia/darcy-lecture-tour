@@ -1,0 +1,9 @@
+/.quarto/
+/_freeze/
+/_site/
+/.DS_Store
+
+
+**/*.quarto_ipynb
+/index_files/
+/visits/*_files/
